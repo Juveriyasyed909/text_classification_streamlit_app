@@ -1,0 +1,22 @@
+{
+  "selection_metric": "macro_f1",
+  "winner": "linear_svm",
+  "ranking": [
+    {
+      "model_name": "linear_svm",
+      "primary_metric": 0.3333333333333333,
+      "macro_precision": 0.25
+    },
+    {
+      "model_name": "logistic_regression",
+      "primary_metric": 0.3333333333333333,
+      "macro_precision": 0.25
+    },
+    {
+      "model_name": "naive_bayes",
+      "primary_metric": 0.3333333333333333,
+      "macro_precision": 0.25
+    }
+  ],
+  "reason": "linear_svm selected using deterministic sorting: highest selection metric, then macro precision, then alphabetical model name."
+}

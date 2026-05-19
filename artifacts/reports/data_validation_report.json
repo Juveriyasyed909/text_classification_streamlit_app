@@ -1,0 +1,16 @@
+{
+  "status": "passed",
+  "errors": [],
+  "warnings": [],
+  "train_rows": 10,
+  "test_rows": 3,
+  "train_columns": [
+    "id",
+    "text",
+    "label"
+  ],
+  "test_columns": [
+    "id",
+    "text"
+  ]
+}

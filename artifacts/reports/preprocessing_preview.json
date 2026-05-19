@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "text": "I loved the onboarding flow, it was simple and fast",
+    "processed_text": "i loved the onboarding flow, it was simple and fast"
+  },
+  {
+    "id": 2,
+    "text": "The app crashes every time I try to upload a file",
+    "processed_text": "the app crashes every time i try to upload a file"
+  },
+  {
+    "id": 3,
+    "text": "Support replied quickly and solved my issue",
+    "processed_text": "support replied quickly and solved my issue"
+  },
+  {
+    "id": 4,
+    "text": "The latest update made navigation confusing",
+    "processed_text": "the latest update made navigation confusing"
+  },
+  {
+    "id": 5,
+    "text": "Payment was processed smoothly",
+    "processed_text": "payment was processed smoothly"
+  },
+  {
+    "id": 6,
+    "text": "Login takes too long and often fails",
+    "processed_text": "login takes too long and often fails"
+  },
+  {
+    "id": 7,
+    "text": "Great experience, clean interface",
+    "processed_text": "great experience, clean interface"
+  },
+  {
+    "id": 8,
+    "text": "Notifications are delayed and unreliable",
+    "processed_text": "notifications are delayed and unreliable"
+  },
+  {
+    "id": 9,
+    "text": "Very easy to use for first-time users",
+    "processed_text": "very easy to use for first-time users"
+  },
+  {
+    "id": 10,
+    "text": "Search results are inaccurate",
+    "processed_text": "search results are inaccurate"
+  }
+]

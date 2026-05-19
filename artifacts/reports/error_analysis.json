@@ -1,0 +1,10 @@
+[
+  {
+    "id": 9,
+    "text": "Very easy to use for first-time users",
+    "true_label": "positive",
+    "predicted_label": "negative",
+    "confidence_or_score": 0.23803673565454128,
+    "reason": "Misclassified validation example useful for inspecting ambiguous wording, weak features, or class overlap."
+  }
+]
